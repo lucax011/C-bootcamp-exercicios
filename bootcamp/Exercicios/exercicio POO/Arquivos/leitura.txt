@@ -1,0 +1,5 @@
+vamos ler este arquivo pelo programa em c#;
+
+vamos ver um tema legal !!!
+
+leitura de arquivos
