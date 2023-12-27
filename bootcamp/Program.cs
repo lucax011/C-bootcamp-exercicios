@@ -5,16 +5,28 @@ using System.Globalization;
 
 
 
+// Stack<int> pilha = new Stack<int>();
+
+// pilha.Push(10);
+// pilha.Push(7);
+// pilha.Push(2);
+// pilha.Push(5);
 
 
+// foreach (int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
 
 
+// Console.WriteLine($"removemos o topo {pilha.Pop()}");
 
+// pilha.Push(20);
 
-
-
-
-
+// foreach (int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
 
 
 
