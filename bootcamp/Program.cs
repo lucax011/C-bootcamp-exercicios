@@ -2,8 +2,43 @@
 using C__project.Models;
 using System.Globalization;
 
+Dictionary<string, string> estados = new Dictionary<string, string>();
+
+estados.Add("SP","São Paulo");
+estados.Add("BA","Bahia");
+estados.Add("MG","Minas Gerais");
+estados.Add("CE","Ceará");
+
+foreach (var item in estados)
+{
+    Console.WriteLine($"Sigla: {item.Key}\nEstado: {item.Value}");
+}
+
+Console.WriteLine("------------");
+
+estados.Remove("CE");
+
+estados["SP"] = "Sao Paulo";
+
+foreach (var item in estados)
+{
+    Console.WriteLine($"Sigla: {item.Key}\nEstado: {item.Value}");
+}
 
 
+string chave = "BA";
+
+Console.WriteLine($"verificando o elemento: {chave}");
+
+if (estados.ContainsKey(chave))
+{
+    Console.WriteLine($"chave existente: {chave}");
+}else
+{
+    Console.WriteLine($"Valor não existente. É seguro adiocionar a {chave} ao dictionary");
+}
+
+Console.WriteLine(estados["MG"]);
 
 // Stack<int> pilha = new Stack<int>();
 
@@ -67,6 +102,21 @@ using System.Globalization;
 //     Console.WriteLine(item);
 
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // new Exceções().Metodo1(); 
 
 
@@ -95,6 +145,15 @@ using System.Globalization;
 // }finally{
 //     Console.WriteLine("deu bom mano");
 // }
+
+
+
+
+
+
+
+
+
 
 
 // using C__project.Models;
