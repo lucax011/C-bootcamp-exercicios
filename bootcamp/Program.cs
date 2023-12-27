@@ -5,6 +5,56 @@ using System.Globalization;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Queue<int> fila = new Queue<int>();
+
+// fila.Enqueue(2);
+// fila.Enqueue(3);
+// fila.Enqueue(4);
+// fila.Enqueue(7);
+// fila.Enqueue(1);
+
+// foreach(int item in fila){
+
+//     Console.WriteLine(item);
+
+// }
+
+// Console.WriteLine($"removendo o elemento {fila.Dequeue()}");
+// fila.Enqueue(10); 
+
+
+// foreach (int item in fila)
+// {
+
+//     Console.WriteLine(item);
+
+// }
 // new Exceções().Metodo1(); 
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local\\bootcamp\\Exercicios\\exercicio POO\\C# project.csproj": {}
+    "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local-modulo01\\bootcamp\\C# project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local\\bootcamp\\Exercicios\\exercicio POO\\C# project.csproj": {
+    "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local-modulo01\\bootcamp\\C# project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local\\bootcamp\\Exercicios\\exercicio POO\\C# project.csproj",
+        "projectUniqueName": "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local-modulo01\\bootcamp\\C# project.csproj",
         "projectName": "C# project",
-        "projectPath": "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local\\bootcamp\\Exercicios\\exercicio POO\\C# project.csproj",
+        "projectPath": "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local-modulo01\\bootcamp\\C# project.csproj",
         "packagesPath": "C:\\Users\\lukin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local\\bootcamp\\Exercicios\\exercicio POO\\obj\\",
+        "outputPath": "C:\\Users\\lukin\\OneDrive\\Área de Trabalho\\bootcamp\\Exercicios\\repo-local-modulo01\\bootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukin\\AppData\\Roaming\\NuGet\\NuGet.Config"
