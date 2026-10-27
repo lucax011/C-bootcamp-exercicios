@@ -1,26 +1,27 @@
-# Bootcamp C# e .NET Code Archive
+# Exercícios do bootcamp de C# e .NET
 
-Este repositório foi criado para arquivar os códigos desenvolvidos durante o Bootcamp de C# e .NET. Aqui, você encontrará uma coleção organizada de projetos, exercícios e desafios que foram abordados durante o bootcamp, proporcionando uma referência valiosa para futuros estudos e consultas.
+Exercícios feitos durante o bootcamp de C# e .NET da [DIO](https://www.dio.me) (dez/2023 – jan/2024), reunidos em um único projeto de console.
 
-## Como Navegar
+## Conceitos praticados
 
-1. Cada pasta principal (Projetos, Exercícios, Desafios) contém subpastas nomeadas de acordo com o tópico ou conceito específico abordado.
+- **Coleções:** `Dictionary`, `List`, `Stack` e `Queue` (adicionar, remover, buscar e percorrer)
+- **Orientação a objetos:** classes `Curso` e `PessoaFisica`, com métodos para adicionar, remover e listar alunos
+- **Exceções:** `try`/`catch` e propagação entre métodos (`Models/Exceções.cs`)
+- **Arquivos:** leitura de `Arquivos/leitura.txt`
 
-2. Dentro de cada subpasta, você encontrará os códigos-fonte, documentos ou qualquer recurso relevante relacionado ao tópico.
+Alguns exercícios estão comentados no `Program.cs`. Para rodar um deles, basta descomentar o bloco.
 
-3. Certifique-se de ler os arquivos `README.md` dentro de cada subpasta, pois eles fornecem informações adicionais, instruções de execução e insights sobre o código.
+## Como rodar
 
-## Contribuições
+Pré-requisito: [.NET 8 SDK](https://dotnet.microsoft.com/download).
 
-Contribuições são bem-vindas! Se você encontrar melhorias possíveis, erros ou deseja adicionar seu próprio código relacionado ao bootcamp, sinta-se à vontade para criar uma *pull request*.
+```bash
+cd bootcamp
+dotnet run
+```
 
-## Autor
+## Outros projetos do bootcamp
 
-Lucas Melo 
-
-## Recursos Úteis
-
-- [Link para a plataforma do Bootcamp]] (https://web.dio.me/track/decola-tech-avanade-net-developer)
-- [Documentação Oficial do C# e .NET]] (https://learn.microsoft.com/pt-br/dotnet/csharp/)
-
-Aproveite o aprendizado e bom desenvolvimento! 🚀
+- [C-bootcamp-estacionamento](https://github.com/lucax011/C-bootcamp-estacionamento): sistema de estacionamento no console
+- [Smatphone-project](https://github.com/lucax011/Smatphone-project): herança, polimorfismo e interfaces
+- [Testes-unit-rios-C-](https://github.com/lucax011/Testes-unit-rios-C-): testes unitários com xUnit
